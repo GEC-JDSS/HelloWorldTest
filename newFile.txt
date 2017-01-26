@@ -1,2 +1,6 @@
 Testing making changes
+Making change
 Adding another line 
+Function One
+Testing to see how this works
+End of changes
